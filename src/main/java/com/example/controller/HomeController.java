@@ -9,7 +9,7 @@ package com.example.controller;
  * @author Chingyu Mo
  * @create 2016-07-23-20:20
  * github 12-28
- *
+ * 元旦
  */
 // 注解标注此类为springmvc的controller，url映射为"/home"
 @Controller
